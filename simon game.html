@@ -169,8 +169,12 @@
             }
 
             let userChosenColor = this.id;
+            console.log("לחצת בפועל על:", userChosenColor);
+
             flashButton(userChosenColor);
             userClickedPattern.push(userChosenColor);
+
+            console.log("המערך אחרי push:", userClickedPattern);
 
             checkAnswer(currentLevel);
 
@@ -179,29 +183,34 @@
     });
 
     function checkAnswer(currentLevel) {
+        console.log("בודק אינדקס:", currentLevel);
+        console.log("המשתמש לחץ:", userClickedPattern[currentLevel]);
+        console.log("הצבע הנכון:", gameSequence[currentLevel]);
+
         if (userClickedPattern[currentLevel] === gameSequence[currentLevel]) {
 
-            if (userClickedPattern.length === gameSequence.length) {
-                score++;
-                document.getElementById("score").textContent = "Score: " + score;
+                if (userClickedPattern.length === gameSequence.length) {
+                    score++;
+                    document.getElementById("score").textContent = "Score: " + score;
+                    gameActive = false;
+
+                    setTimeout(function () {
+                        userClickedPattern = [];
+                        currentLevel = 0;
+                        nextSequence();
+                        playSequence();
+                    }, 1000);
+                }
+
+            } else {
+                gameActive = false;
+                document.getElementById("gameover").textContent = "משחק נגמר! הניקוד הסופי שלך: " + score;
 
                 setTimeout(function() {
-                    userClickedPattern = [];
-                    currentLevel = 0;
-                    nextSequence();
-                    playSequence();
-                }, 1000);
+                    startNewGame();
+                }, 1500);
             }
-
-        } else {
-            gameActive = false;
-            document.getElementById("gameover").textContent = "משחק נגמר! הניקוד הסופי שלך: " + score;
-
-            setTimeout(function() {
-                startNewGame();
-            }, 1500);
         }
-    }
     function startNewGame() {
         score = 0;
         gameSequence = [];
