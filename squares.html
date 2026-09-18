@@ -34,61 +34,54 @@
         border-radius: 50%;
         display: inline-block;
         margin: 10px;
-        cursor: pointer;
-        font-size: 30px;
-        text-align: center;
-        line-height: 60px;
     }
 </style>
 <body>
-<div></div>
 <script>
-    let el = document.createElement("div");
+    function setBig(color) {
+        let screen = document.getElementById("bigScreen")
+        screen.style.backgroundColor = color;
+    }
+    let el = document.createElement("div")
     el.classList.add("main_color");
     el.id = "bigScreen";
     document.body.appendChild(el);
 
-    let currColor = "";
-    let colors = ["#fb4e4e", "#96dc6a", "#3f41ba", "yellow", "purple"];
-    let count = {};
+    el = document.createElement("div")
+    el.classList.add("container");
+    el.id = "container";
+    document.body.appendChild(el);
 
-    createBtnsPanel();
-    showCounters();
-
-    function createBtnsPanel(){
-        el = document.createElement("div");
-        el.classList.add("container");
-        el.id = "container";
-        document.body.appendChild(el);
-
-        for (let clr of colors) {
-            count[clr] = 0;
-
-            let btn = document.createElement("div");
-            btn.classList.add("btn");
-            btn.id = "btn_" + clr;
-            btn.style.backgroundColor = clr;
-            btn.addEventListener("click", function () {
-                setBig(clr);
-            });
-            container.appendChild(btn);
-        }
-    }
-
-    function setBig(color) {
-        if (currColor !== color) {
-            let screen = document.getElementById("bigScreen");
-            screen.style.backgroundColor = color;
-            currColor = color;
-            count[color]++;
-            showCounters();
-        }
-    }
-
-    function showCounters() {
-        for (let clr of colors) {
-            document.getElementById(`btn_${clr}`).innerHTML = count[clr];
-        }
+    let count = new Array(4);
+    let colors = ["red", "green", "blue", "yellow"];
+    for(let clr of colors) {
+        //create div
+        let btn = document.createElement("div");
+        //add class (btn) to div
+        btn.classList.add("btn");
+        //add style (background-color) to div
+        btn.style.backgroundColor = clr;
+        //add onclick event listener to div
+        btn.addEventListener("click", function () {
+            setBig(clr);
+        });
+        //append div to container
+        document.getElementById("container").appendChild(btn);
+        let main_color = document.createElement("div");
+        main_color.classList.add("main_color");
+        main_color.style.backgroundColor = clr;
+        main_color.addEventListener("click", function () {
+        })
+        let container = document.createElement("div");
+        container.classList.add("container");
+        container.style.backgroundColor = clr;
+        container.addEventListener("click", function () {
+        })
+        count.forEach((element, index) => {})
+        let countElement = document.createElement("div");
+        countElement.classList.add("count");
+        countElement.style.backgroundColor = clr;
+        countElement.addEventListener("click", function () {})
     }
 </script>
 </body>
