@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3913c977-bbeb-4155-9681-bd81f39b102a" name="Changes" comment="משחק צבעים">
+    <list default="true" id="3913c977-bbeb-4155-9681-bd81f39b102a" name="Changes" comment="מתחילים בתיאור של משחק לוחץ מסודר">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simon 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/simon 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simon game.html" beforeDir="false" afterPath="$PROJECT_DIR$/simon game.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake1.html" beforeDir="false" afterPath="$PROJECT_DIR$/snake1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake2.html" beforeDir="false" afterPath="$PROJECT_DIR$/snake2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/squares.html" beforeDir="false" afterPath="$PROJECT_DIR$/squares.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,87 +25,95 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Lillianleykin22"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Lillianleykin22&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Lillianleykin22/squares.2.git",
-    "accountId": "1ed2c884-272b-4b6a-a9d8-29904b1ecb22"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Lillianleykin22/squares.2.git&quot;,
+    &quot;accountId&quot;: &quot;1ed2c884-272b-4b6a-a9d8-29904b1ecb22&quot;
   }
-}]]></component>
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="2.5502754407769342E-130" />
-      <entry key="MS500" value="1.2844373180864595E-26" />
-      <entry key="S2" value="5.966295979848859E-7" />
-      <entry key="S5" value="0.006090002765948095" />
-      <entry key="S10" value="0.13602390442696288" />
-      <entry key="S30" value="1.2856217324322365" />
-      <entry key="S60" value="2.791677531610062" />
-      <entry key="M2" value="5.267118098423766" />
-      <entry key="M5" value="12.574598873042554" />
-      <entry key="M10" value="24.23305254902679" />
-      <entry key="M15" value="34.66793127743953" />
-      <entry key="M30" value="61.0291693117112" />
-      <entry key="H1" value="107.56134275902309" />
-      <entry key="H2" value="179.80225150861486" />
-      <entry key="H4" value="256.8507972794529" />
-      <entry key="D1" value="367.1489075982706" />
-      <entry key="W1" value="392.53787887076896" />
+      <entry key="MS100" value="1.0019700624654806" />
+      <entry key="MS500" value="1.615029795511887" />
+      <entry key="S2" value="5.629898693350629" />
+      <entry key="S5" value="10.132031631816997" />
+      <entry key="S10" value="13.194936876839833" />
+      <entry key="S30" value="16.211763873610344" />
+      <entry key="S60" value="17.960317692904106" />
+      <entry key="M2" value="20.84230230881693" />
+      <entry key="M5" value="25.072808158040772" />
+      <entry key="M10" value="28.59726334275986" />
+      <entry key="M15" value="32.12235133136678" />
+      <entry key="M30" value="45.475913954441765" />
+      <entry key="H1" value="78.24843036840319" />
+      <entry key="H2" value="144.60886519937026" />
+      <entry key="H4" value="278.8619178260413" />
+      <entry key="D1" value="950.6244767072725" />
+      <entry key="W1" value="1301.6829331342565" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0002793974279838" />
-      <entry key="S2" value="1.1477842952255908" />
-      <entry key="S5" value="1.6439216629274984" />
-      <entry key="S10" value="2.1145030079433553" />
-      <entry key="S30" value="2.6748236558269403" />
-      <entry key="S60" value="3.0723596998786573" />
-      <entry key="M2" value="3.639598667521668" />
-      <entry key="M5" value="4.989830545765807" />
-      <entry key="M10" value="7.584509570786172" />
-      <entry key="M15" value="10.058511887682469" />
-      <entry key="M30" value="16.568225369784678" />
-      <entry key="H1" value="29.399522500740577" />
-      <entry key="H2" value="51.87179412884677" />
-      <entry key="H4" value="77.46820331474399" />
-      <entry key="D1" value="115.52114507624161" />
-      <entry key="W1" value="124.4297904062024" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="7.318746575460463E-217" />
+      <entry key="S10" value="8.554967314642671E-109" />
+      <entry key="S30" value="9.493057648035878E-37" />
+      <entry key="S60" value="9.74323237136037E-19" />
+      <entry key="M2" value="9.871461622456096E-10" />
+      <entry key="M5" value="2.620820257706509E-4" />
+      <entry key="M10" value="0.026188790346318887" />
+      <entry key="M15" value="0.18025958280670412" />
+      <entry key="M30" value="1.9662828193747135" />
+      <entry key="H1" value="9.064093351999206" />
+      <entry key="H2" value="25.349733298660336" />
+      <entry key="H4" value="58.3591764232721" />
+      <entry key="D1" value="233.72451645674263" />
+      <entry key="W1" value="329.50762173336454" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="4.735434033570455E-7" />
-      <entry key="MS500" value="0.05434068765336682" />
-      <entry key="S2" value="0.5399679338892931" />
-      <entry key="S5" value="1.1889837853434815" />
-      <entry key="S10" value="1.9089892373733002" />
-      <entry key="S30" value="3.762611850132797" />
-      <entry key="S60" value="5.695401740156767" />
-      <entry key="M2" value="8.761251453482014" />
-      <entry key="M5" value="17.456851685478433" />
-      <entry key="M10" value="31.728886627271745" />
-      <entry key="M15" value="44.6463681616865" />
-      <entry key="M30" value="77.53198965029702" />
-      <entry key="H1" value="136.90807273024484" />
-      <entry key="H2" value="231.633263086009" />
-      <entry key="H4" value="334.291246621837" />
-      <entry key="D1" value="482.66371454051455" />
-      <entry key="W1" value="516.9667082096909" />
+      <entry key="MS100" value="0.9813365117711138" />
+      <entry key="MS500" value="1.6050630033409299" />
+      <entry key="S2" value="5.6108435357495745" />
+      <entry key="S5" value="10.11771767097158" />
+      <entry key="S10" value="13.18569064340872" />
+      <entry key="S30" value="16.207887507307813" />
+      <entry key="S60" value="17.957397688359638" />
+      <entry key="M2" value="20.839554509184058" />
+      <entry key="M5" value="25.07114431411053" />
+      <entry key="M10" value="28.62198402195195" />
+      <entry key="M15" value="32.300347981854294" />
+      <entry key="M30" value="47.43385333354569" />
+      <entry key="H1" value="87.29487654780864" />
+      <entry key="H2" value="169.9357099135873" />
+      <entry key="H4" value="337.19701389679955" />
+      <entry key="D1" value="1184.3351049338" />
+      <entry key="W1" value="1631.1878315423123" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4,
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3G28aUr1ipcossaQQgQYc54NyXg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -108,37 +121,48 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.clicking game.html.executor": "Run",
     "JavaScript Debug.new project.html.executor": "Run",
+    "JavaScript Debug.simon 2.html.executor": "Run",
+    "JavaScript Debug.simon game.html.executor": "Run",
     "JavaScript Debug.snake1.html.executor": "Run",
+    "JavaScript Debug.snake2.html.executor": "Run",
     "JavaScript Debug.squares.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "disable.download.node.interpreter.editor.notification": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/HTML",
+    "last_opened_file_path": "C:/FullStack Client",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/Owner/AppData/Roaming/JetBrains/WebStorm2026.2/node/versions/24.18.0/node",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\FullStack Client" />
       <recent name="C:\HTML" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.26222.58" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.9437.145" />
       </set>
     </attachedChunks>
   </component>
@@ -151,7 +175,26 @@
       <updated>1783158366541</updated>
       <workItem from="1783158367545" duration="3982000" />
       <workItem from="1783260688757" duration="11166000" />
-      <workItem from="1783864804262" duration="4304000" />
+      <workItem from="1783864804262" duration="11810000" />
+      <workItem from="1784735018243" duration="1311000" />
+      <workItem from="1784736422555" duration="16000" />
+      <workItem from="1784982693476" duration="3805000" />
+      <workItem from="1784986526789" duration="3450000" />
+      <workItem from="1785074402720" duration="12569000" />
+      <workItem from="1785679768845" duration="11913000" />
+      <workItem from="1785692160292" duration="43000" />
+      <workItem from="1786284420278" duration="8284000" />
+      <workItem from="1786294243950" duration="2080000" />
+      <workItem from="1786889661268" duration="9301000" />
+      <workItem from="1787493976333" duration="11000" />
+      <workItem from="1787494016535" duration="11043000" />
+      <workItem from="1788098656532" duration="10060000" />
+      <workItem from="1788532723727" duration="327000" />
+      <workItem from="1789228707480" duration="1747000" />
+      <workItem from="1789230488641" duration="4000" />
+      <workItem from="1789405448547" duration="2238000" />
+      <workItem from="1789482054912" duration="2271000" />
+      <workItem from="1789710041093" duration="6815000" />
     </task>
     <task id="LOCAL‎-00001" summary="משחק צבעים">
       <option name="closed" value="true" />
@@ -169,13 +212,191 @@
       <option name="project" value="LOCAL‎" />
       <updated>1783868063273</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL‎-00003" summary="משחק צבעים עם ערבובים צבעים">
+      <option name="closed" value="true" />
+      <created>1783869728265</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL‎-00003" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1783869728265</updated>
+    </task>
+    <task id="LOCAL‎-00004" summary="משחק צבעים עם ערבובים צבעים">
+      <option name="closed" value="true" />
+      <created>1783869747783</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL‎-00004" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1783869747783</updated>
+    </task>
+    <task id="LOCAL‎-00005" summary="יצירת צבעים עם java script">
+      <option name="closed" value="true" />
+      <created>1783873507524</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL‎-00005" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1783873507524</updated>
+    </task>
+    <task id="LOCAL‎-00006" summary="התחלה של ניסיון פיתוח סוכן AI לקריירה">
+      <option name="closed" value="true" />
+      <created>1785074569740</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL‎-00006" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1785074569740</updated>
+    </task>
+    <task id="LOCAL‎-00007" summary="גרסה בעייתית של צעד שמאלה">
+      <option name="closed" value="true" />
+      <created>1785082555638</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL‎-00007" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1785082555638</updated>
+    </task>
+    <task id="LOCAL‎-00008" summary="מוסיפים הזזה ימינה">
+      <option name="closed" value="true" />
+      <created>1785682320408</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL‎-00008" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1785682320408</updated>
+    </task>
+    <task id="LOCAL‎-00009" summary="עושים סוף למשחק">
+      <option name="closed" value="true" />
+      <created>1785688856776</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL‎-00009" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1785688856776</updated>
+    </task>
+    <task id="LOCAL‎-00010" summary="מיקמנו בסדר את הכפתורים">
+      <option name="closed" value="true" />
+      <created>1785690056962</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL‎-00010" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1785690056962</updated>
+    </task>
+    <task id="LOCAL‎-00011" summary="עיצוב יפה של הכפתורים">
+      <option name="closed" value="true" />
+      <created>1785691602450</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL‎-00011" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1785691602450</updated>
+    </task>
+    <task id="LOCAL‎-00012" summary="עיצוב יפה של סיום ומשחק חדש">
+      <option name="closed" value="true" />
+      <created>1785692182869</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL‎-00012" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1785692182869</updated>
+    </task>
+    <task id="LOCAL‎-00013" summary="הכנת אוכל וניקוד למשחק">
+      <option name="closed" value="true" />
+      <created>1786288261398</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL‎-00013" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1786288261398</updated>
+    </task>
+    <task id="LOCAL‎-00014" summary="מתחילים להכין ולעצב כפתורים למשחק סיימון">
+      <option name="closed" value="true" />
+      <created>1786892907658</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL‎-00014" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1786892907658</updated>
+    </task>
+    <task id="LOCAL‎-00015" summary="התחלנו להפעיל את המשחק">
+      <option name="closed" value="true" />
+      <created>1786899899163</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL‎-00015" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1786899899163</updated>
+    </task>
+    <task id="LOCAL‎-00016" summary="סיכום משחק סיימון">
+      <option name="closed" value="true" />
+      <created>1786900557028</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL‎-00016" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1786900557028</updated>
+    </task>
+    <task id="LOCAL‎-00017" summary="סיכום משחק סיימון">
+      <option name="closed" value="true" />
+      <created>1787497469202</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL‎-00017" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1787497469202</updated>
+    </task>
+    <task id="LOCAL‎-00018" summary="סיכום משחק סיימון">
+      <option name="closed" value="true" />
+      <created>1787497500023</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL‎-00018" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1787497500023</updated>
+    </task>
+    <task id="LOCAL‎-00019" summary="מתחילים בתיאור של משחק לוחץ מסודר">
+      <option name="closed" value="true" />
+      <created>1789230396654</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL‎-00019" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1789230396654</updated>
+    </task>
+    <task id="LOCAL‎-00020" summary="סיימנו את העיצוב של המשחק והתחלנו לאט לאט להתקדם לאט לאט אל הקוד">
+      <option name="closed" value="true" />
+      <created>1789714253925</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL‎-00020" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1789714253925</updated>
+    </task>
+    <task id="LOCAL‎-00021" summary="מתחילים בתיאור של משחק לוחץ מסודר">
+      <option name="closed" value="true" />
+      <created>1789716147602</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL‎-00021" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1789716147602</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -188,6 +409,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="משחק צבעים" />
-    <option name="LAST_COMMIT_MESSAGE" value="משחק צבעים" />
+    <MESSAGE value="משחק צבעים עם ערבובים צבעים" />
+    <MESSAGE value="יצירת צבעים עם java script" />
+    <MESSAGE value="התחלה של ניסיון פיתוח סוכן AI לקריירה" />
+    <MESSAGE value="גרסה בעייתית של צעד שמאלה" />
+    <MESSAGE value="מוסיפים הזזה ימינה" />
+    <MESSAGE value="עושים סוף למשחק" />
+    <MESSAGE value="מיקמנו בסדר את הכפתורים" />
+    <MESSAGE value="עיצוב יפה של הכפתורים" />
+    <MESSAGE value="עיצוב יפה של סיום ומשחק חדש" />
+    <MESSAGE value="הכנת אוכל וניקוד למשחק" />
+    <MESSAGE value="מתחילים להכין ולעצב כפתורים למשחק סיימון" />
+    <MESSAGE value="התחלנו להפעיל את המשחק" />
+    <MESSAGE value="סיכום משחק סיימון" />
+    <MESSAGE value="סיימנו את העיצוב של המשחק והתחלנו לאט לאט להתקדם לאט לאט אל הקוד" />
+    <MESSAGE value="מתחילים בתיאור של משחק לוחץ מסודר" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
 </project>
